@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:22d3ee&height=220&section=header&text=Arif%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Aspiring%20Developer&descAlignY=57&descSize=16" width="100%" alt="Arif Saputra profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:0f766e,100:22d3ee&height=220&section=header&text=Muhammad%20Arif%20Saputra&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Aspiring%20Developer&descAlignY=57&descSize=16" width="100%" alt="Arif Saputra profile banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Learning+by+building+things;Information+Systems+%40+ITK;Turning+curiosity+into+code;One+commit+at+a+time." alt="Typing intro" />
@@ -18,7 +18,7 @@
 
 ## About me
 
-Hey! I'm **Arif**, an Information Systems student at **Institut Teknologi Kalimantan (ITK)**. I'm exploring the intersection of software development, data, and practical problem-solving.
+Hey! I'm **Riff**, an Information Systems student at **Institut Teknologi Kalimantan (ITK)**. I'm exploring the intersection of software development, data, and practical problem-solving.
 
 - Currently studying **Information Systems**.
 - Building projects while learning web development.
@@ -33,7 +33,7 @@ Hey! I'm **Arif**, an Information Systems student at **Institut Teknologi Kalima
 
 ### Languages & tools
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github,vscode&theme=dark&perline=5" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,html,css,js,git,github,vscode&theme=dark&perline=5" alt="Technologies and tools" />
 
 </div>
 

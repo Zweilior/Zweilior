@@ -12,7 +12,7 @@
 
 <br />
 
-## 👋 Hello, World
+## Hello, World
 
 ```js
 const riff = {
@@ -27,7 +27,7 @@ const riff = {
 ```
 
 - 🎓 Mahasiswa Sistem Informasi di **ITK**
-- 🔨 Belajar lewat membuat proyek nyata
+- 🔨 Selalu Belajar Mencoba Teknologi Baru
 - 📊 Tertarik pada **backend, database, dan visualisasi data**
 - 🌱 Konsisten naik level, satu commit per hari
 

@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f172a,45:0f766e,100:22d3ee&height=220&section=header&text=Muhammad%20Arif%20Saputra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Aspiring%20Developer&descAlignY=57&descSize=16" width="100%" alt="Arif Saputra profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f172a,45:0f766e,100:22d3ee&height=220&section=header&text=Muhammad%20Arif%20Saputra&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Information%20Systems%20Student%20%7C%20Aspiring%20Developer&descAlignY=57&descSize=16" width="100%" alt="Arif Saputra profile banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=600&lines=Learning+by+building+things;Information+Systems+%40+ITK;Turning+curiosity+into+code;One+commit+at+a+time." alt="Typing intro" />

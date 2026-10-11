@@ -59,9 +59,9 @@ Hey! I'm **Riff**, an Information Systems student at **Institut Teknologi Kalima
   <img src="https://streak-stats.demolab.com?user=Zweilior&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=2DD4BF" alt="GitHub contribution streak" />
 </a>
 
-<br />
+<!-- <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zweilior&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=22d3ee&area=true&area_color=0f766e&hide_border=true" width="98%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zweilior&bg_color=0d1117&color=c9d1d9&line=2dd4bf&point=22d3ee&area=true&area_color=0f766e&hide_border=true" width="98%" alt="GitHub contribution activity graph" /> -->
 
 </div>
 

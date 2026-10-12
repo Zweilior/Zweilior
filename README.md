@@ -14,16 +14,6 @@
 
 ## Hello, World
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0f766e,100:22d3ee&height=160&section=header&text=Hello%2C%20World!&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=52" width="100%" alt="Animated Hello, World banner" />
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=650&lines=I'm+Muhammad+Arif+Saputra+%28Riff%29;Information+Systems+student+at+ITK;Building%2C+debugging%2C+and+learning+every+day" alt="Typing introduction" />
-
-</div>
-
 ```js
 const riff = {
   name: "Muhammad Arif Saputra",

@@ -57,7 +57,7 @@ const riff = {
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=Zweilior&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=2DD4BF" alt="Streak" />
+<!-- <img src="https://streak-stats.demolab.com?user=Zweilior&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=2DD4BF" alt="Streak" /> -->
 
 </div>
 

@@ -20,8 +20,8 @@ const riff = {
   nickname: "Riff",
   campus: "Institut Teknologi Kalimantan (ITK)",
   major: "Information Systems",
-  interests: ["Backend", "Databases", "Data Visualization"],
-  currentlyLearning: ["Laravel", "Power BI", "Clean Code"],
+  interests: ["Backend", "Databases"],
+  currentlyLearning: ["Laravel" and "Clean Code"],
   motto: "Build it. Break it. Debug it. Improve it.",
 };
 ```

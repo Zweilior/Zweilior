@@ -28,8 +28,7 @@ const riff = {
 
 - 🎓 Mahasiswa Sistem Informasi di **ITK**
 - 🔨 Selalu Belajar Mencoba Teknologi Baru
-- 📊 Tertarik pada **backend, database, dan visualisasi data**
-- 🌱 Konsisten naik level, satu commit per hari
+- 📊 Tertarik pada **backend dan database**
 
 ---
 

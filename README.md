@@ -40,7 +40,7 @@ const riff = {
 
 <br /><br />
 
-<img src="https://img.shields.io/badge/Exploring-Laravel-fbbf24?style=flat-square&logo=laravel&logoColor=F05340" alt="Laravel" />
+<img src="https://img.shields.io/badge/Focus-On-Laravel-fbbf24?style=flat-square&logo=laravel&logoColor=F05340" alt="Laravel" />
 <img src="https://img.shields.io/badge/Currently-Learning-2dd4bf?style=flat-square" alt="Learning" />
 
 </div>
